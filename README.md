@@ -6,6 +6,13 @@ Custom Add-ons by Weather Bridge
 ## Installation
 Add-ons can be installed and configured via the Home Assistant frontend on systems that have installed Home Assistant.
 
+Use the following URL to add this repository:
+
+```
+https://github.com/weather-bridge/hassio-addons
+```
+
+
 ## Add-ons provided by this repository
 
 ## Releases
