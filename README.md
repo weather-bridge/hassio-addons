@@ -1,7 +1,7 @@
 # Home Assistant Add-ons
 
 ## About
-Custom Add-ons by Weather Bridge
+Custom Add-ons by __Weather Bridge__
 
 ## Installation
 Add-ons can be installed and configured via the Home Assistant frontend on systems that have installed Home Assistant.
