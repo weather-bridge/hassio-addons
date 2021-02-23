@@ -1,4 +1,4 @@
-# Home Assistant Weather Bridge Add-ons
+# Home Assistant Add-ons
 
 ## About
 Custom Add-ons by Weather Bridge
